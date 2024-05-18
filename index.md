@@ -13,7 +13,6 @@ The app uses third-party services that may collect information used to identify 
 Our app requests the following permissions for the purposes outlined below:
 - **READ_EXTERNAL_STORAGE** and **WRITE_EXTERNAL_STORAGE**: To read and write data to your device's storage.
 - **INTERNET** and **ACCESS_NETWORK_STATE**: To access the internet for data synchronization and updates.
-- **USE_BIOMETRIC**: To provide biometric authentication for security purposes.
 - **POST_NOTIFICATIONS**: To send notifications about important updates or reminders.
 - **SCHEDULE_EXACT_ALARM** and **USE_EXACT_ALARM**: To schedule precise alarms for time-sensitive notifications.
 - **RECEIVE_BOOT_COMPLETED**: To restart services after your device reboots.
